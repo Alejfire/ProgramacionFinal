@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\obj\Debug\HeartBeatOfAHare1.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\obj\Debug\HeartBeatOfAHare1.Properties.Resources.resources
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\obj\Debug\HeartBeatOfAHare1.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\obj\Debug\HeartBeatOfAHare1.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\bin\Debug\HeartBeatOfAHare1.exe.config
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\bin\Debug\HeartBeatOfAHare1.exe
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\bin\Debug\HeartBeatOfAHare1.pdb
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\obj\Debug\HeartBeatOfAHare1.exe
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\obj\Debug\HeartBeatOfAHare1.pdb
+C:\Users\aleja\source\repos\HeartBeatOfAHare1\HeartBeatOfAHare1\obj\Debug\HeartBeatOfAHare1.Form1.resources
